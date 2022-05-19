@@ -118,6 +118,7 @@ Inducción electromagnética
 ![image](https://user-images.githubusercontent.com/105674953/169225567-f32901e0-f620-4379-b13c-19d8d5210e61.png)
 ##### Un interruptor rotatorio
 #### 38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+##### R= Uniendo 2 resistencias en sere y utilizar la formula para calcular una resistencia en serie
 #### 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
 #### 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
 #### 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
