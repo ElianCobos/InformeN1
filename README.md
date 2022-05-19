@@ -121,8 +121,10 @@ Inducción electromagnética
 #### 38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
 ##### R= Uniendo 2 resistencias en sere y utilizar la formula para calcular una resistencia en serie
 #### 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
-#### 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
+![image](https://user-images.githubusercontent.com/105674953/169355285-3eb328dc-d103-416b-883b-323a46c7e2ed.png)
 #### 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+![image](https://user-images.githubusercontent.com/105674953/169355554-1fee4b6a-ced1-45f6-a77d-f27c0185d619.png)
+### 10KΩ
 #### 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 ##### Un multímetro de 4 ½ dígitos dará hasta 19.999 recuentos de resolución
 ## 4. Video
