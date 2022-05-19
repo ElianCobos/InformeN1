@@ -111,6 +111,7 @@ Inducción electromagnética
 #### 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 ![image](https://user-images.githubusercontent.com/105674953/169225318-229ca859-145b-4672-a387-a01aa9dba729.png)
 #### 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+![image](https://user-images.githubusercontent.com/105674953/169352868-fae8c982-bda1-4789-ad34-bd129a1ee751.png)
 #### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 ##### Por el resistor 5
 ![image](https://user-images.githubusercontent.com/105674953/169225514-92b75bca-7ef0-4527-b332-222f2a09825e.png)
@@ -130,5 +131,6 @@ https://youtu.be/Kr3_hTm0hvY
 #### -	El estudio de los circuitos eléctricos es fundamental para la carrera de electrónica y automatización ya que esto tiene un gran peso en todas las aplicaciones de la materia.
 #### -	Conocer los principios de calculo de mediciones de circuitos es muy importante al momento de hacer un circuito ya que este procedimiento hace que no halla fallos al momento de hacer el ya dicho.
 ## 6. Biliografia
+#### Floyd, T. L. (n.d.). FLOYD FLOYD OCTAVA EDICIÓN OCTAVA. Retrieved May 18, 2022, from www.pearsoneducacion.net/floyd
 
 
